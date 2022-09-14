@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CriptoFile", "CriptoFile.csproj", "{9351A5CC-4C08-478E-864C-740BB3346B2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9351A5CC-4C08-478E-864C-740BB3346B2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9351A5CC-4C08-478E-864C-740BB3346B2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9351A5CC-4C08-478E-864C-740BB3346B2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9351A5CC-4C08-478E-864C-740BB3346B2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {567C8723-F16F-44D7-8533-00A59703B287}
+	EndGlobalSection
+EndGlobal
