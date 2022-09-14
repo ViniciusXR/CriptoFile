@@ -1,5 +1,3 @@
-# CriptoFile
-
 <h1>CriptoFile</h1> 
 
 <p align="center">
@@ -31,7 +29,7 @@
  
 ## Funcionalidades
 
-:heavy_check_mark: Exibe o gráfico em 2D ou 3D  
+:heavy_check_mark: Criptografa e descriptografa arquivos com base na chave fornecida pelo usuário  
 
 :heavy_check_mark: Pode exibir 34 tipos de gráficos diferentes  
 
@@ -50,7 +48,6 @@ Basta executar o arquivo Graficos.exe nos Releases.
 
 ## Como usar a aplicação :question:
 
-![SS13](https://user-images.githubusercontent.com/101216409/190039713-04b9eb89-3bea-4efa-af69-23622af8c856.jpg)
 
 
 ## Linguagens, dependencias e libs utilizadas :books:
